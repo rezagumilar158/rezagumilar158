@@ -1,4 +1,4 @@
-![Muhammad Reza](https://cardivo.vercel.app/api?name=Muhammad%20Reza&description=Hi,%20i%27m%20a%20Front-End%20Web%20Developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.postimg.cc/yYRBSyCd/Whats-App-Image-2020-09-15-at-14-51-54.jpg=4&backgroundColor=%23ecf0f1&instagram=muhammadreza851&github=rezagumilar158&twitter=muhammadreza851&pattern=leaf&colorPattern=%23eaeaea)
+![Muhammad Reza](https://cardivo.vercel.app/api?name=Muhammad%20Reza&description=Hi,%20i%27m%20a%20Front-End%20Web%20Developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.postimg.cc/yYRBSyCd/Whats-App-Image-2020-09-15-at-14-51-54.jpg=4&backgroundColor=%23ecf0f1&instagram=muhammadreza851&github=muhammadreza851&twitter=muhammadreza851&pattern=leaf&colorPattern=%23eaeaea)
 
 Hi!
 
@@ -13,9 +13,9 @@ I am open for any collaborations! Contact me at Rezagumilar851@gmail.com
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rezagumilar158&show_icons=true&theme=radical&border_color=141E61" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=inicp851&show_icons=true&theme=radical&border_color=141E61" />
   <br></br> 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=rezagumilar158&theme=radical&border=141E61" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=inicp851&theme=radical&border=141E61" />
 
 
   
@@ -23,7 +23,7 @@ I am open for any collaborations! Contact me at Rezagumilar851@gmail.com
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rezagumilar158&layout=compact&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inicp851&layout=compact&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
   
   </td>
 </tr>
