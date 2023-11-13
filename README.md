@@ -2,7 +2,7 @@
 
 Hi!
 
-I am Reza, currently studying Frontend Developer at Social  Economic Accelerator Lab (SEAL)
+I am Reza, currently studying IBM Academy Hybrid Cloud and AI & Red Hat Certified System Administrator (RHCSA)
 
 I would love to improve my skills, and enjoy working as a team or individually if necessary.
 
