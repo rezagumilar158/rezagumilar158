@@ -15,14 +15,13 @@ I am open for any collaborations! Contact me at Rezagumilar851@gmail.com
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rezagumilar158&show_icons=true&theme=radical" />
   <br></br> 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=rezagumilar158&theme=radical&border=141E61" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=rezagumilar158&theme=tokyonight" />
 
 
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezagumilar158&theme=tokyonight"/>
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezagumilar158&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight"/>
   
   </td>
 </tr>
