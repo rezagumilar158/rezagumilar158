@@ -4,7 +4,7 @@
 
 <table border="0" align="center">
 <tr border="0">
-<td width="40%" align="center">
+<td width="50%" align="center">
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rezagumilar158&show_icons=true&theme=tokyonight" />
   <br></br> 
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=rezagumilar158&theme=tokyonight" />
