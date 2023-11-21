@@ -1,5 +1,4 @@
-![Muhammad Reza](https://cardivo.vercel.app/api?name=Muhammad%20Reza&description=Hi,%20i%27m%20a%20Front-End%20Web%20Developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.postimg.cc/yYRBSyCd/Whats-App-Image-2020-09-15-at-14-51-54.jpg=4&backgroundColor=%23ecf0f1&instagram=muhammadreza851&github=rezagumilar158&twitter=muhammadreza851&pattern=leaf&colorPattern=%23eaeaea)
-
+![Muhammad Reza](https://cardivo.vercel.app/api?name=Muhammad%20Reza&description=Hi,%20i%27m%20a%20Front-End%20Web%20Developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.postimg.cc/DzzfYbhy/reza.jpg=4&backgroundColor=%23ecf0f1&instagram=muhammadreza851&github=rezagumilar158&twitter=muhammadreza851&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <table border="0" align="center">
