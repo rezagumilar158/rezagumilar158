@@ -16,7 +16,7 @@
 📋 Profile
 
 Hi!
-I am Reza, currently studying IBM Academy Hybrid Cloud and AI & Red Hat Certified System Administrator (RHCSA) at Infinite Learning Academy
+I am Reza, currently studying IBM Academy Hybrid Cloud and AI & Red Hat Certified System Administrator (RHCSA) at Infinite Learning Academy (Batch 5)
 I would love to improve my skills, and enjoy working as a team or individually if necessary.
 I am open for any collaborations! Contact me at Rezagumilar851@gmail.com
 
