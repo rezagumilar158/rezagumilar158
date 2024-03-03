@@ -20,6 +20,9 @@ I am Reza, currently studying IBM Academy Hybrid Cloud and AI & Red Hat Certifie
 I would love to improve my skills, and enjoy working as a team or individually if necessary.
 I am open for any collaborations! Contact me at Rezagumilar851@gmail.com
 
+
+<p align="center">  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="29%" align="center"/> </p>
+
   
   </td>
 </tr>
