@@ -7,10 +7,7 @@
   <br></br> 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rezagumilar158&theme=tokyonight-duo" alt="GitHub Streak" /></a>
- 
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=rezagumilar158&theme=tokyonight-duo" alt="GitHub Streak"/>
-</a>
+
 
 <td width="70%" align="left">
 
