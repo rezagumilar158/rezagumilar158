@@ -5,7 +5,11 @@
 <td width="50%" align="center">
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rezagumilar158&show_icons=true&theme=tokyonight" />
   <br></br> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezagumilar158&theme=tokyonight-duo)](https://git.io/streak-stats)
+ 
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=rezagumilar158&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&type=png)](https://git.io/streak-stats" />
+
+https://streak-stats.demolab.com?user=rezagumilar158&theme=tokyonight-duo
 
 <td width="70%" align="left">
 
