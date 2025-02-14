@@ -8,9 +8,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rezagumilar158&theme=tokyonight-duo" alt="GitHub Streak" /></a>
  
-<a href="https://github.com/rezagumilar158/github-readme-streak-stats">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rezagumilar158&theme=tokyonight-duo"/>
-    </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=rezagumilar158&theme=tokyonight-duo"/></a>
 
 <td width="70%" align="left">
 
