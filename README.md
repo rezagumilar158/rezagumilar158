@@ -8,7 +8,10 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rezagumilar158&theme=tokyonight-duo" alt="GitHub Streak" /></a>
  
-
+<a href="https://github.com/rezagumilar158/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rezagumilar158's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=rezagumilar158&theme=tokyonight-duo&hide_border=true&short_numbers=true"/>
+    </a>
 
 <td width="70%" align="left">
 
